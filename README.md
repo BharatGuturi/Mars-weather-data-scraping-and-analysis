@@ -8,6 +8,7 @@ To execute the project, the following steps should be followed:
   2) Execute 'mars_data_challenge_part_1'
   3) Execute 'mars_data_challenge_part_2'
 
+## Outputs
 The following are the outputs:
   1) mars_data_challenge_part_1: 
   
