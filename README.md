@@ -4,7 +4,7 @@ Scrape titles and preview text from Mars news articles. Scrape and analyse Mars 
 
 ## Instructions
 To execute the project, the following steps should be followed:
-  1) git clone https://github.com/BharatGuturi/web-scraping-challenge.git
+  1) git clone https://github.com/BharatGuturi/Mars-weather-data-scraping-and-analysis.git
   2) Execute 'mars_data_challenge_part_1'
   3) Execute 'mars_data_challenge_part_2'
 
